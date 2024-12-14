@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-# Date:
+# Date:10.12.2024
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
 
@@ -62,6 +62,8 @@ Publish the website in the given URL.
             font-size: 24px;
             margin-bottom: 20px;
             text-align: center;
+            top: 200px;
+            right: 1100px;
         }
         .label {
             font-size: 18px;
@@ -92,14 +94,16 @@ Publish the website in the given URL.
             background-color: #4e9bc4;
         }
         .result {
-            margin-top: 20px;
+            margin-top: 80px;
             font-size: 20px;
-            padding: 15px;
+            padding: 100px;
             background-color: #3e7e8e;
             border: 1px solid #d4f4d4;
             border-radius: 4px;
             display: none;
             text-align: center;
+            top: 200px;
+            right: 1100px;
         }
     </style>
 </head>
@@ -131,12 +135,11 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+
 ```
 # SERVER SIDE PROCESSING:
-![Screenshot 2024-12-07 004831](https://github.com/user-attachments/assets/7d70599e-17ed-4548-b896-dbdec3ca0c4d)
-
+![Screenshot 2024-12-14 175347](https://github.com/user-attachments/assets/2e1b8a72-f41d-4e43-8299-b73e40fe755b)
 # HOMEPAGE:
-![Screenshot 2024-12-07 004750](https://github.com/user-attachments/assets/ab7ed101-288a-4702-a7f8-d1ab40ce3718)
-
+![Screenshot 2024-12-14 175419](https://github.com/user-attachments/assets/dc3c2bb7-f245-4c1e-b71e-3a7bc48b188d)
 # RESULT:
 The program for performing server side processing is completed successfully.
